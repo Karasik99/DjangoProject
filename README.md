@@ -1,1 +1,1 @@
-# LESHA2
+Django Project
